@@ -35,13 +35,13 @@ Languages
 Database
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![MongoDB](https://https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-![Mysql](https://https://img.shields.io/badge/-MySql-fff?&logo=MySql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+![Mysql](https://img.shields.io/badge/-MySql-fff?&logo=MySql)
 
 
 ### Technologies
 
-![Socket.Io](https://https://img.shields.io/badge/-Socket.Io-fff?&logo=Socket.Io)
+![Socket.Io](https://img.shields.io/badge/-Socket.Io-fff?&logo=Socket.Io)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
