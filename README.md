@@ -13,7 +13,7 @@ I always embrace changes positively and make great effort to satisy my customers
 
 - 📫 How to touch on me: [yarnj33@gmail.com](mailto:yarnj33@gmail.com)
 
-- 🔗 My website: [(https://yarnj.github.io/jamesyarn]((https://yarnj.github.io/jamesyarn)
+- 🔗 My website: [https://yarnj.github.io/jamesyarn]
 
  <br>
 
