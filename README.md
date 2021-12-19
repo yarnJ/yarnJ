@@ -13,7 +13,7 @@ I always embrace changes positively and make great effort to satisy my customers
 
 - 📫 How to touch on me: [yarnj33@gmail.com](mailto:yarnj33@gmail.com)
 
-- 🔗 My website: [https://yarnj.github.io/jamesyarn]
+- 🔗 My website: https://yarnj.github.io/jamesyarn
 
  <br>
 
@@ -35,8 +35,8 @@ Languages
 Database
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![MongoDB](https://https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=336791)
-![Mysql](https://https://img.shields.io/badge/-MySql-fff?&logo=MySql&logoColor=336791)
+![MongoDB](https://https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+![Mysql](https://https://img.shields.io/badge/-MySql-fff?&logo=MySql)
 
 
 ### Technologies
