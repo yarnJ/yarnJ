@@ -41,7 +41,7 @@ Database
 
 ### Technologies
 
-![Socket.Io](https://https://img.shields.io/badge/-Socket.Io-fff?&logo=Socket.Io&logoColor=336791)
+![Socket.Io](https://https://img.shields.io/badge/-Socket.Io-fff?&logo=Socket.Io)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
