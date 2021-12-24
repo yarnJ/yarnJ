@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, this is [James Yarn](https://yarnj.github.io/jamesyarn), a Fullstack developer who is professional in this position, not afraid of new challenges and would like to face them. My set of skills and qualities always tend to constantly innovative development and growing up and delivering outstanding services.
+Hi, this is [James Yarn](https://yarnj.github.io/jamesyarn), a Frontend developer who is professional in this position, not afraid of new challenges and would like to face them. My set of skills and qualities always tend to constantly innovative development and growing up and delivering outstanding services.
 I always embrace changes positively and make great effort to satisy my customers and clients.
 
 <br>
