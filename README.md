@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!, nice to see you.</h1>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/james-yarn-308780227/" target="_blank"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dS7BQqmVln0FmHiQwEbwCKE9eUqqcO75Aw&usqp=CAU"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yarnj33" target="_blank"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dS7BQqmVln0FmHiQwEbwCKE9eUqqcO75Aw&usqp=CAU"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-Hi, I'm [James Yarn](https://yarnj.github.io/jamesyarn), a Fullstack developer who is professional in this position, not afraid of new challenges and would like to face them. My set of skills and qualities always tend to constantly innovative development and growing up and delivering outstanding services.
+Hi, this is [James Yarn](https://yarnj.github.io/jamesyarn), a Fullstack developer who is professional in this position, not afraid of new challenges and would like to face them. My set of skills and qualities always tend to constantly innovative development and growing up and delivering outstanding services.
 I always embrace changes positively and make great effort to satisy my customers and clients.
 
 <br>
